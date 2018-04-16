@@ -1,0 +1,2 @@
+Scale the radius linearly.
+It can show the size of nodes in a meaningful way: the central with more links is obviously bigger and the node around is smaller. 
