@@ -1,0 +1,11 @@
+Average node degree(3.64): 
+Each node has its degree which equals to lines connect to it. Average degree means the average value of all nodes' degree
+
+Diameter of the graph(5): 
+The greatest distance between pair of vertices. 
+
+Avg. path length(2.784): 
+Compute sum of path length between all the pairs of nodes and divided by sum of nodes.
+
+Graph Density (0.037): 
+The density of the objects that filling the graph. High density means centralized graph.
