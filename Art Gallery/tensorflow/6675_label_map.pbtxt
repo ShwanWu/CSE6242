@@ -1,0 +1,59 @@
+item {
+  id: 1
+  name: 'angel'
+}
+
+item {
+  id: 2
+  name: 'arch'
+}
+
+item {
+  id: 3
+  name: 'building'
+}
+
+item {
+  id: 4
+  name: 'child'
+}
+
+item {
+  id: 5
+  name: 'cross'
+}
+
+item {
+  id: 6
+  name: 'horse'
+}
+
+item {
+  id: 7
+  name: 'man'
+}
+
+item {
+  id: 8
+  name: 'rock'
+}
+
+item {
+  id: 9
+  name: 'ship'
+}
+
+item {
+  id: 10
+  name: 'tree'
+}
+
+item {
+  id: 11
+  name: 'vase'
+}
+
+item {
+  id: 12
+  name: 'woman'
+}
